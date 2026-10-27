@@ -277,19 +277,17 @@ Open the project notebook and execute the cells in sequence to load the dataset,
 ```text
 customer-shopping-behavior-analysis/
 │
-├── data/
-│   ├── customer_shopping_behavior.csv
-│   └── cleaned_customer_data.csv
+├── README.md
 │
-├── customer_behavior_analysis.ipynb
+│── customerAnalysisSql.sql
 │
-├── customer_behavior_analysis.sql
+├── custom_behave.pbix
 │
-├── customer_behavior_dashboard.pbix
+├── customAnalysisSql.sql
 │
-├── images/
-│   └── dashboard.png
-└── README.md
+├── customer_shopping_behavior.csv
+|
+└── customer_shopping_behavior.ipynb
 ```
 
 
