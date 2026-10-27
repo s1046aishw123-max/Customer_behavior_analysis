@@ -219,8 +219,8 @@ Install or configure the following tools:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-cd customer-shopping-behavior-analysis
+git clone https://github.com/s1046aishw123-max/Customer_behavior_analysis.git
+cd customer_behavior_analysis
 ```
 
 Replace the URL with your actual GitHub repository URL.
@@ -275,7 +275,7 @@ Open the project notebook and execute the cells in sequence to load the dataset,
 ## 📁 Repository Structure
 
 ```text
-customer-shopping-behavior-analysis/
+customer_behavior_analysis/
 │
 ├── README.md
 │
@@ -307,7 +307,7 @@ customer-shopping-behavior-analysis/
 
 **Aishwarya**
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: (https://github.com/s1046aishw123-max/Customer_behavior_analysis.git)
 - LinkedIn: (https://www.linkedin.com/in/aishwarya-s-501996290/)
 
 ---
